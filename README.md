@@ -1,3 +1,5 @@
+For a guide with a bit more detail and design: [HERE](https://in-myclub.blogspot.com/2025/07/full-play-integrity-on-custom-roms-guide.html)
+
 More guides here: [MyClub-Blog](https://in-myclub.blogspot.com/)
 
 # Guide to Achieving Full Play Integrity on Custom ROMs
