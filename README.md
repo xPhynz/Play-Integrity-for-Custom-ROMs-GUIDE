@@ -34,7 +34,7 @@ Follow the steps below to set up the necessary modules:
 After rebooting, proceed with the Yuri Keybox configuration:
 
 1.  **Install KsuWebUI:** Install the [**[KsuWebUI]**](https://github.com/xPhynz/Play-Integrity-for-Custom-ROMs-GUIDE/releases/tag/guide).
-2.  **Access Yuri Keybox Manager:** Open the KsuWebUI apk and access the **[Yuri Keybox Manager]** section.
+2.  **Access Yuri Keybox Manager:** Open the KsuWebUI apk and access the [**[Yuri Keybox Manager]**](https://github.com/xPhynz/Play-Integrity-for-Custom-ROMs-GUIDE/releases/tag/guide) section.
 3.  **Security Configuration:**
     * Within Yuri Keybox Manager, navigate to "Menu" and select the following options to configure them:
         * Set Up Yuri Keybox
