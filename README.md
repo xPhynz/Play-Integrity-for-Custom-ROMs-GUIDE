@@ -52,10 +52,10 @@ After these steps, when checking with the INTEGRITY CHECKER, you should observe 
 
 To achieve the third and final integrity verification, do the following:
 
-1.  **Install PlayIntegrityFix:** Install the **[PlayIntegrityFix]** module.
+1.  **Install PlayIntegrityFix:** Install the [**[PlayIntegrityFix]**](https://github.com/xPhynz/Play-Integrity-for-Custom-ROMs-GUIDE/releases/tag/guide) module.
 2.  **KsuWebUI Config:**
     * Reopen the [**[KsuWebUI]**](https://github.com/xPhynz/Play-Integrity-for-Custom-ROMs-GUIDE/releases/tag/guide) application.
-    * Access the **[Play Integrity Fix [INJECT]]** section.
+    * Access the [**[Play Integrity Fix [INJECT]]**](https://github.com/xPhynz/Play-Integrity-for-Custom-ROMs-GUIDE/releases/tag/guide) section.
     * Click on the "Advanced" option.
     * Select the **Spoof Provider** and **Spoof Build** options.
     * **Important Note:** To ensure the correct functioning of Google Wallet, it is necessary to **disable the Spoof Provider option** after completing these steps.
